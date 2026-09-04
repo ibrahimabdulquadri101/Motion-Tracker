@@ -11,6 +11,13 @@ class FrameCapture
         int frameHeight;
         double fps;
         bool isOpen;
+    public:
+        bool init(std::string source);
+        bool getFrame(cv::Mat& frame);
+        int getWidth();
+        int getHeight();
+        double getFPS();
+        void release();
 };
 
 #endif // FRAMECAPTURE_H
