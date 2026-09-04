@@ -1,0 +1,4 @@
+#ifndef BLOBDETECTOR_H
+#define BLOBDETECTOR_H
+
+#endif // BLOBDETECTOR_H

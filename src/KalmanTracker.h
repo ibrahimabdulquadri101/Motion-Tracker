@@ -1,0 +1,4 @@
+#ifndef KALMANTRACKER_H
+#define KALMANTRACKER_H
+
+#endif // KALMANTRACKER_H

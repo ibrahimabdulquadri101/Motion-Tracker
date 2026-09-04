@@ -1,0 +1,4 @@
+#ifndef FRAMECAPTURE_H
+#define FRAMECAPTURE_H
+
+#endif // FRAMECAPTURE_H
